@@ -6,10 +6,12 @@
 <p></br> I'm Nyambayar "getnymba" Demberelsuren, Mechanical Engineer/Computer Scientist from <img src="https://image.flaticon.com/icons/svg/197/197385.svg" width="13"/> <b>Ulaanbaatar, Mongolia</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197604.svg" width="13"/> <b>Yamaguchi, Japan</b>. </p>
 <h3>Love to code with</h3>
 <p>
-  <img alt="React" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/377/377286.svg" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Java" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/377/377286.svg" />
+  <img alt="Python" src="https://www.flaticon.com/premium-icon/icons/svg/172/172546.svg" /> 
+  <img alt="C++" src="https://www.flaticon.com/premium-icon/icons/svg/2391/2391391.svg" />
+  <img alt="Shell Scripting" src="https://www.flaticon.com/premium-icon/icons/svg/1442/1442623.svg" />
+  <img alt="HTML" src="https://www.flaticon.com/premium-icon/icons/svg/1073/1073666.svg" />
+  <img alt="CSS" src="https://www.flaticon.com/premium-icon/icons/svg/640/640861.svg" />
 
 </p>
 <h3>Open source projects</h3>
