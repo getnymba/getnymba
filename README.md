@@ -7,11 +7,11 @@
 <h3>Love to code with</h3>
 <p>
   <img alt="Java" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/377/377286.svg" />
-  <img alt="Python" src="https://www.flaticon.com/premium-icon/icons/svg/172/172546.svg" /> 
-  <img alt="C++" src="https://www.flaticon.com/premium-icon/icons/svg/2391/2391391.svg" />
-  <img alt="Shell Scripting" src="https://www.flaticon.com/premium-icon/icons/svg/1442/1442623.svg" />
-  <img alt="HTML" src="https://www.flaticon.com/premium-icon/icons/svg/1073/1073666.svg" />
-  <img alt="CSS" src="https://www.flaticon.com/premium-icon/icons/svg/640/640861.svg" />
+  <img alt="Python" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/172/172546.svg" /> 
+  <img alt="C++"  width="30" src="https://www.flaticon.com/premium-icon/icons/svg/2391/2391391.svg" />
+  <img alt="Shell Scripting" width="30"  src="https://www.flaticon.com/premium-icon/icons/svg/1442/1442623.svg" />
+  <img alt="HTML" width="30"  src="https://www.flaticon.com/premium-icon/icons/svg/1073/1073666.svg" />
+  <img alt="CSS" width="30"  src="https://www.flaticon.com/premium-icon/icons/svg/640/640861.svg" />
 
 </p>
 <h3>Open source projects</h3>
