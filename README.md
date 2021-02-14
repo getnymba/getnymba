@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>👨‍💻 Hey! Welcome to My Page 👨‍💻</h1>
 
 
