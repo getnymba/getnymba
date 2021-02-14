@@ -1,4 +1,4 @@
-<h1>👨‍💻 Hey! Welcome to My Page 👨‍💻</h1>
+<h1>👨‍💻 Welcome! 👨‍💻</h1>
 
 
 <p></br> I'm Nyambayar "getnymba" Demberelsuren, Mechanical Engineer/Computer Scientist from <img src="https://image.flaticon.com/icons/svg/197/197385.svg" width="13"/> <b>Ulaanbaatar, Mongolia</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197604.svg" width="13"/> <b>Yamaguchi, Japan</b>. </p>
