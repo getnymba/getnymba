@@ -6,7 +6,7 @@
 <p></br> I'm Nyambayar "getnymba" Demberelsuren, Mechanical Engineer/Computer Scientist from <img src="https://image.flaticon.com/icons/svg/197/197385.svg" width="13"/> <b>Ulaanbaatar, Mongolia</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197604.svg" width="13"/> <b>Yamaguchi, Japan</b>. </p>
 <h3>Love to code with</h3>
 <p>
-  <img alt="React" src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=2&page=1&position=2&related_id=226777&origin=search#" />
+  <img alt="React" width="15" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1613303654~hmac=c19ea61b72586df5b9e68639678e24d6" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
