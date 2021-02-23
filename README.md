@@ -5,9 +5,7 @@
 <h3>Love to code with</h3>
 <p>
   <img alt="Java" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/377/377286.svg" />
-  <img alt="Python" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/172/172546.svg" /> 
-  <img alt="C++"  width="30" src="https://www.flaticon.com/svg/vstatic/svg/617/617447.svg?token=exp=1613303941~hmac=0dc59964a21e2e627335d264fce09645" />
-  <img alt="Shell Scripting" width="30"  src="https://www.flaticon.com/svg/vstatic/svg/2581/2581053.svg?token=exp=1613303975~hmac=82a9832fb13e90329fbbc5cce7c896ca" />
+  <img alt="Python" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/172/172546.svg" />
   <img alt="HTML" width="30"  src="https://www.flaticon.com/premium-icon/icons/svg/2786/2786969.svg" />
   <img alt="CSS" width="30"  src="https://www.flaticon.com/premium-icon/icons/svg/1073/1073665.svg" />
 
