@@ -1,7 +1,7 @@
 <h1>👨‍💻 Welcome! 👨‍💻</h1>
 
 
-<p></br> I'm Nyambayar "getnymba" Demberelsuren, Mechanical Engineer from <img src="https://image.flaticon.com/icons/svg/197/197385.svg" width="13"/> <b>Ulaanbaatar, Mongolia</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197604.svg" width="13"/> <b>Yamaguchi, Japan</b>. </p>
+<p></br> I'm Nyambayar "getnymba" Demberelsuren, Mechanical Engineer from <b>Ulaanbaatar, Mongolia</b>, currently living in <b>Yamaguchi, Japan</b>. </p>
 <h3>Love to code with</h3>
 <p>
   <img alt="Java" width="30" src="https://www.flaticon.com/premium-icon/icons/svg/377/377286.svg" />
