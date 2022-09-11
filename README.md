@@ -1,7 +1,7 @@
-<h1>👨‍💻 Welcome! 👨‍💻</h1>
+<h1>Welcome!</h1>
 
 
-<p></br> I'm Nyambayar "getnymba" Demberelsuren, Mechanical Engineer from <b>Ulaanbaatar, Mongolia</b>, currently living in <b>Yamaguchi, Japan</b>. </p>
+<p></br>Currently pursuing a career in Data Science.</p>
 
 
 <h3>Contact Me</h3>
