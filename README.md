@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 
 
-<p></br>Currently pursuing a career in Data Science.</p>
+<p></br>Mechanical Engineer. Currently pursuing a career in Data Science.</p>
 
 
 <h3>Contact Me</h3>
